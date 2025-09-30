@@ -36,10 +36,11 @@
 
 * [Basic AT Commands](https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/AT_Command_Set/Basic_AT_Commands.html)
 ```
-AT+RST: Restart a module.
-AT+GMR: Check version information.
+AT+RST: Restart a Module.
 ATE0: Echo off
 ATE1: Echo on
+AT+GMR: Check Version Information.
+AT+CMD?: List all AT commands and types supported in current firmware
 ```
 
 * [Wi-Fi AT Commands](https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/AT_Command_Set/Wi-Fi_AT_Commands.html)
