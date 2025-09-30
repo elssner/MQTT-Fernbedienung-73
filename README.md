@@ -31,6 +31,13 @@
 * [Grove WiFi 8266 CAD files](https://drive.google.com/drive/folders/1kfOuKsVLOXPVkPTSarWBtlN2XdDNWKZJ) <!-- ?usp=sharing -->
 * [Espressif ESP-AT commands user guide](https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/)
 
+### weitere Links
+
+* [WiFi Module - ESP8266 (4MB Flash)]([WiFi Module - ESP8266 (4MB Flash)](https://www.sparkfun.com/wifi-module-esp8266-4mb-flash.html))
+* [WRL-17146]([WRL-17146](https://cdn.sparkfun.com/assets/f/e/5/6/f/ESP8266ModuleV2.pdf))
+* [ESP8266 NURDspace](https://nurdspace.nl/ESP8266)
+* [ESP8266 Instructables Tutorial](https://www.instructables.com/Using-the-ESP8266-module/)
+
 #### AT Commands
 
 * [Basic AT Commands](https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/AT_Command_Set/Basic_AT_Commands.html)
