@@ -59,33 +59,3 @@ AT+MQTTCLEAN=0
 Das Grove WiFi 8266 IoT für micro:bit & Beyond wurde entwickelt, um es Ihrem micro:bit (und auch anderen Controllern) zu ermöglichen, Daten über das Internet über das Wi-Fi-Netzwerk zu senden/zu empfangen. Es basiert auf dem ESP-12F-Modul des Ai-Thinker und wird mit der neuen Espressif ESP-AT-Firmware v2.2.0 vorinstalliert.
 
 
-
-## Als Erweiterung verwenden
-
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/elssner/mqtt** suchen und importieren
-
-## Dieses Projekt bearbeiten ![Build status badge](https://github.com/elssner/MQTT-Fernbedienung-73/workflows/MakeCode/badge.svg)
-
-Um dieses Repository in MakeCode zu bearbeiten.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/elssner/mqtt** ein und klicke auf Importieren
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/elssner/MQTT-Fernbedienung-73/raw/master/.github/makecode/blocks.png)
-
-#### Metadaten (verwendet für Suche, Rendering)
-
-* for PXT/calliopemini
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
-
