@@ -34,9 +34,23 @@
 
 #### AT Commands
 
+* [Basic AT Commands](https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/AT_Command_Set/Basic_AT_Commands.html)
+```
+AT+RST: Restart a module.
+AT+GMR: Check version information.
+ATE0: Echo off
+ATE1: Echo on
+```
+
+* [Wi-Fi AT Commands](https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/AT_Command_Set/Wi-Fi_AT_Commands.html)
+* [Wi-Fi AT Examples](https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/AT_Command_Examples/TCP-IP_AT_Examples.html)
+```
+AT+CWMODE=3
+AT+CWJAP="SSID","password"
+```
+
 * [MQTT AT Commands](https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/AT_Command_Set/MQTT_AT_Commands.html)
 * [MQTT AT Examples](https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/AT_Command_Examples/MQTT_AT_Examples.html)
-
 ```
 AT+MQTTUSERCFG=0,1,"ESP32","espressif","1234567890",0,0,""
 AT+MQTTCONN=0,"192.168.31.113",1883,0
