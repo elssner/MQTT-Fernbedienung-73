@@ -47,7 +47,8 @@ AT+CMD?: List all AT commands and types supported in current firmware
 * [Wi-Fi AT Examples](https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/AT_Command_Examples/TCP-IP_AT_Examples.html)
 ```
 AT+CWMODE=1: Station mode
-AT+CWJAP="SSID","password"
+AT+CWJAP="SSID","password": Connect to an AP
+AT+CWJAP?: Query the AP to which the ESP Station is already connected.
 ```
 
 * [MQTT AT Commands](https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/AT_Command_Set/MQTT_AT_Commands.html)
@@ -55,8 +56,9 @@ AT+CWJAP="SSID","password"
 ```
 AT+MQTTUSERCFG=0,1,"client_id","username","password",0,0,"": Set MQTT user configuration
 AT+MQTTCONN=0,"192.168.31.113",1883,0: Connect to MQTT Brokers
-AT+MQTTSUB=0,"topic",1
+AT+MQTTCONN?: Query the MQTT broker that ESP devices are connected to.
 AT+MQTTPUB=0,"topic","data",1,0: Publish MQTT Messages in string
+AT+MQTTSUB=0,"topic",1
 AT+MQTTCLEAN=0
 ```
 
