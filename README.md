@@ -64,6 +64,7 @@ AT+MQTTCLEAN=0: Close the MQTT connection and release the resource.
 ## MakeCode
 
 * [ericbusboom/Microbit-Wifi-MQTT](https://github.com/ericbusboom/Microbit-Wifi-MQTT)
+* [ESP8266_IoT package](https://github.com/elecfreaks/pxt-esp8266iot)
 * [KittenBot WiFi Module (of PowerBrick) based on ESP8266 for microbit](https://github.com/Kittenbot/pxt-kittenwifi)
 
 
