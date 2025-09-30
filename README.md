@@ -3,7 +3,6 @@
 
 [Grove WiFi 8266 - IoT for micro:bit and beyond](https://www.cytron.io/p-grove-wifi-8266-iot-for-microbit-and-beyond)
 
-[RobotShop](https://eu.robotshop.com/de/products/grove-wifi-8266-iot-microbit-beyond)
 
 ![](doc/GRV-WIFI-8266_Layout.jpg)
 
@@ -32,6 +31,21 @@ Cytron custom compiled ESP-AT firmware
 How to update ESP-AT firmware
 Espressif ESP-AT commands user guide
 Grove WiFi 8266 CAD files
+
+
+
+#### [RobotShop](https://eu.robotshop.com/de/products/grove-wifi-8266-iot-microbit-beyond)
+
+### Beschreibung
+
+* Grove WiFi 8266 IoT für micro:bit & Beyond
+* Entwickelt für micro:bit (Nicht enthalten)
+* Kommt vorinstalliert mit der neuen Espressif ESP-AT Firmware v2.2.0
+* Onboard-Reset und Boot-Schalter
+* Eingebaute Power-LED
+* Versorgungseingangsspannung: 3 - 6 V
+
+Das Grove WiFi 8266 IoT für micro:bit & Beyond wurde entwickelt, um es Ihrem micro:bit (und auch anderen Controllern) zu ermöglichen, Daten über das Internet über das Wi-Fi-Netzwerk zu senden/zu empfangen. Es basiert auf dem ESP-12F-Modul des Ai-Thinker und wird mit der neuen Espressif ESP-AT-Firmware v2.2.0 vorinstalliert.
 
 
 
