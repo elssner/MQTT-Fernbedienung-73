@@ -1,5 +1,5 @@
 
-> Diese Seite bei [https://elssner.github.io/mqtt/](https://elssner.github.io/mqtt/) öffnen
+> Diese Seite bei [https://elssner.github.io/mqtt/](https://elssner.github.io/MQTT-Fernbedienung-73/) öffnen
 
 [Grove WiFi 8266 - IoT for micro:bit and beyond](https://www.cytron.io/p-grove-wifi-8266-iot-for-microbit-and-beyond)
 
@@ -58,7 +58,7 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 * klicke auf **Erweiterungen** unter dem Zahnrad-Menü
 * nach **https://github.com/elssner/mqtt** suchen und importieren
 
-## Dieses Projekt bearbeiten ![Build status badge](https://github.com/elssner/mqtt/workflows/MakeCode/badge.svg)
+## Dieses Projekt bearbeiten ![Build status badge](https://github.com/elssner/MQTT-Fernbedienung-73/workflows/MakeCode/badge.svg)
 
 Um dieses Repository in MakeCode zu bearbeiten.
 
@@ -71,7 +71,7 @@ Um dieses Repository in MakeCode zu bearbeiten.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/elssner/mqtt/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/elssner/MQTT-Fernbedienung-73/raw/master/.github/makecode/blocks.png)
 
 #### Metadaten (verwendet für Suche, Rendering)
 
