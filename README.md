@@ -23,7 +23,7 @@
 
 ### Resources
 
-* [Grove WiFi 8266 datasheet](https://docs.google.com/document/d/1ub3WuRrp1F8QijoHCDjOez6SC1mtG5pQglhiPdeB12k/edit) <-- ?usp=sharing -->
+* [Grove WiFi 8266 datasheet](https://docs.google.com/document/d/1ub3WuRrp1F8QijoHCDjOez6SC1mtG5pQglhiPdeB12k/edit) <!-- ?usp=sharing -->
 * [Getting started tutorial (micro:bit)](https://www.cytron.io/tutorial/get-started-with-grove-wifi-8266-on-the-microbit/)
 * [MakeCode extension for micro:bit](https://github.com/CytronTechnologies/pxt-esp8266)
 * [CircuitPython libraries for Raspberry Pi Pico & RP2040](https://github.com/CytronTechnologies/MAKER-PI-PICO/tree/main/Example%20Code/CircuitPython/IoT)
