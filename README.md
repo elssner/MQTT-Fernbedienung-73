@@ -3,7 +3,7 @@
 
 [Grove WiFi 8266 - IoT for micro:bit and beyond](https://www.cytron.io/p-grove-wifi-8266-iot-for-microbit-and-beyond)
 
-![](https://static.cytron.io/image/catalog/products/GRV-WIFI-8266/GRV-WIFI-8266%20Dimension.jpg)
+![](doc/GRV-WIFI-8266_Layout.jpg)
 
 * Based on ESP-12F (ESP8266 MCU) WiFi module
 * Serial UART Interface (Baud rate: 115200bps)
