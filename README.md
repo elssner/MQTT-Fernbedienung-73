@@ -23,14 +23,14 @@
 
 ### Resources
 
-Grove WiFi 8266 datasheet
-Getting started tutorial (micro:bit)
-MakeCode extension for micro:bit
-CircuitPython libraries for Raspberry Pi Pico & RP2040
-Cytron custom compiled ESP-AT firmware
-How to update ESP-AT firmware
-Espressif ESP-AT commands user guide
-Grove WiFi 8266 CAD files
+* [Grove WiFi 8266 datasheet](https://docs.google.com/document/d/1ub3WuRrp1F8QijoHCDjOez6SC1mtG5pQglhiPdeB12k/edit?usp=sharing)
+* [Getting started tutorial (micro:bit)](https://www.cytron.io/tutorial/get-started-with-grove-wifi-8266-on-the-microbit/)
+* [MakeCode extension for micro:bit](https://github.com/CytronTechnologies/pxt-esp8266)
+* [CircuitPython libraries for Raspberry Pi Pico & RP2040](https://github.com/CytronTechnologies/MAKER-PI-PICO/tree/main/Example%20Code/CircuitPython/IoT)
+* [Cytron custom compiled ESP-AT firmware](https://github.com/CytronTechnologies/esp-at-binaries)
+* [How to update ESP-AT firmware](https://github.com/CytronTechnologies/esp-at-binaries#how-to-update-the-firmware)
+* [Espressif ESP-AT commands user guide](https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/)
+* [Grove WiFi 8266 CAD files](https://drive.google.com/drive/folders/1kfOuKsVLOXPVkPTSarWBtlN2XdDNWKZJ?usp=sharing)
 
 
 
