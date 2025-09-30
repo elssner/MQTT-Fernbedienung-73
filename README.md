@@ -59,7 +59,7 @@ AT+MQTTCONN=0,"192.168.31.113",1883,0: Connect to MQTT Brokers
 AT+MQTTCONN?: Query the MQTT broker that ESP devices are connected to.
 AT+MQTTPUB=0,"topic","data",1,0: Publish MQTT Messages in string
 AT+MQTTSUB=0,"topic",1
-AT+MQTTCLEAN=0
+AT+MQTTCLEAN=0: Close the MQTT connection and release the resource.
 ```
 
 ## [RobotShop](https://eu.robotshop.com/de/products/grove-wifi-8266-iot-microbit-beyond)
