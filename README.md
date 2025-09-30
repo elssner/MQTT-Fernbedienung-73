@@ -5,6 +5,8 @@
 
 ![](doc/GRV-WIFI-8266_Layout.jpg)
 
+### Features
+
 * Based on ESP-12F (ESP8266 MCU) WiFi module
 * Serial UART Interface (Baud rate: 115200bps)
 * ESP-AT (AT command) firmware v2.2.0
@@ -18,6 +20,16 @@
 * MakeCode extension provided
 * CircuitPython libraries provided
 
+### Resources
+
+Grove WiFi 8266 datasheet
+Getting started tutorial (micro:bit)
+MakeCode extension for micro:bit
+CircuitPython libraries for Raspberry Pi Pico & RP2040
+Cytron custom compiled ESP-AT firmware
+How to update ESP-AT firmware
+Espressif ESP-AT commands user guide
+Grove WiFi 8266 CAD files
 
 
 
