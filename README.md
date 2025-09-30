@@ -33,8 +33,8 @@
 
 ### weitere Links
 
-* [WiFi Module - ESP8266 (4MB Flash)](https://www.sparkfun.com/wifi-module-esp8266-4mb-flash.html)
-* [WRL-17146]([WRL-17146](https://cdn.sparkfun.com/assets/f/e/5/6/f/ESP8266ModuleV2.pdf)
+* [SparkFun WiFi Module - ESP8266 (4MB Flash)](https://www.sparkfun.com/wifi-module-esp8266-4mb-flash.html)
+* [WRL-17146](https://cdn.sparkfun.com/assets/f/e/5/6/f/ESP8266ModuleV2.pdf)
 * [ESP8266 NURDspace](https://nurdspace.nl/ESP8266)
 * [ESP8266 Instructables Tutorial](https://www.instructables.com/Using-the-ESP8266-module/)
 
