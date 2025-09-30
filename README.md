@@ -30,7 +30,7 @@
 * [Cytron custom compiled ESP-AT firmware](https://github.com/CytronTechnologies/esp-at-binaries)
 * [How to update ESP-AT firmware](https://github.com/CytronTechnologies/esp-at-binaries#how-to-update-the-firmware)
 * [Espressif ESP-AT commands user guide](https://docs.espressif.com/projects/esp-at/en/release-v2.2.0.0_esp8266/)
-* [Grove WiFi 8266 CAD files](https://drive.google.com/drive/folders/1kfOuKsVLOXPVkPTSarWBtlN2XdDNWKZJ?usp=sharing)
+* [Grove WiFi 8266 CAD files](https://drive.google.com/drive/folders/1kfOuKsVLOXPVkPTSarWBtlN2XdDNWKZJ) <!-- ?usp=sharing -->
 
 
 
