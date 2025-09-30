@@ -1,6 +1,26 @@
 
 > Diese Seite bei [https://elssner.github.io/mqtt/](https://elssner.github.io/mqtt/) öffnen
 
+[Grove WiFi 8266 - IoT for micro:bit and beyond](https://www.cytron.io/p-grove-wifi-8266-iot-for-microbit-and-beyond)
+
+![](https://static.cytron.io/image/catalog/products/GRV-WIFI-8266/GRV-WIFI-8266%20Dimension.jpg)
+
+* Based on ESP-12F (ESP8266 MCU) WiFi module
+* Serial UART Interface (Baud rate: 115200bps)
+* ESP-AT (AT command) firmware v2.2.0
+* Grove 4-pin connector (Rx, Tx, Vcc ,Gnd)
+* Onboard Reset & Boot switch
+* Built-in power LED
+* All the pins of the ESP-12F are extended out with clear labels
+* 3V - 6V supply input voltage
+* 32Mbit built-in SPI Flash
+* 802.11 b/g/n protocol (2.4GHz)
+* MakeCode extension provided
+* CircuitPython libraries provided
+
+
+
+
 ## Als Erweiterung verwenden
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
