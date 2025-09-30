@@ -75,4 +75,5 @@ AT+MQTTCLEAN=0: Close the MQTT connection and release the resource.
 
 Das Grove WiFi 8266 IoT für micro:bit & Beyond wurde entwickelt, um es Ihrem micro:bit (und auch anderen Controllern) zu ermöglichen, Daten über das Internet über das Wi-Fi-Netzwerk zu senden/zu empfangen. Es basiert auf dem ESP-12F-Modul des Ai-Thinker und wird mit der neuen Espressif ESP-AT-Firmware v2.2.0 vorinstalliert.
 
+[Grove WiFi 8266 IoT für micro:bit & Beyond - Datenblatt](https://cdn.robotshop.com/media/c/cyt/rb-cyt-321/pdf/grove-wifi-8266-iot-microbit--beyond-datasheet.pdf)
 
