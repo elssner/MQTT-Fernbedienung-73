@@ -165,7 +165,7 @@ read_list = []
 i_list = 0
 i_substring = 0
 AT_command("AT+RST", 1000, 0, true)
-AT_command("ATE+CMD", 1000, 0, false)
+AT_command("AT+CMD?", 1000, 0, false)
 AT_command("ATE1", 1000, 0, false)
 AT_command("AT+GMR", 1000, 0, false)
 if (OK) {
